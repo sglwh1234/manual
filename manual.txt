@@ -1,0 +1,2 @@
+jdk-7u67-apidocs
+hibernate-distribution-3.6.10.Final-dist
